@@ -1,0 +1,40 @@
+:root {
+  --bg: #16100a;
+  --bg-alt: #1e150c;
+  --card: #241a10;
+  --ink: #f2e3c4;
+  --heading: #ffd97a;
+  --muted: #cfb287;
+  --line: #3d2e1a;
+  --nav-bg: #0f0a05;
+  --nav-ink: #e6c88f;
+  --accent: #ffcf5c;
+  --accent-soft: rgba(255, 207, 92, 0.14);
+  --accent-ink: #241a10;
+  --hero-bg: #140d06;
+  --hero-ink: #fff3d6;
+  --hero-muted: #e8cf9e;
+  --hero-accent: #ffd97a;
+  --hero-glow: rgba(255, 207, 92, 0.32);
+  --hero-glow2: rgba(255, 120, 40, 0.20);
+  --hero-pattern: radial-gradient(rgba(255, 214, 102, 0.20) 1.5px, transparent 1.6px) 0 0 / 24px 24px, repeating-linear-gradient(45deg, transparent 0 26px, rgba(255, 214, 102, 0.05) 26px 27px);
+  --band-a: #2a1c0c;
+  --band-b: #191106;
+  --chip: #2b2012;
+  --footer-bg: #0c0703;
+  --footer-ink: #a8865a;
+  --footer-accent: #ffcf5c;
+}
+
+.hero {
+  background:
+    radial-gradient(1000px 520px at 82% 12%, rgba(255, 190, 60, 0.26), transparent 55%),
+    linear-gradient(160deg, #1a1208, #0f0a05 70%);
+}
+
+:root {
+  --bling: #ffd97a;
+  --bling2: #ff9d3f;
+  --grad1: #ffe9a0;
+  --grad2: #d99a1c;
+}
